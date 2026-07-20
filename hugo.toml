@@ -23,37 +23,17 @@ theme = "hugo-theme-m10c"
 # ── 主菜单（顶栏导航）──
 [menu]
   [[menu.main]]
-    name = "__TEMPLATE_AUTHOR_NAME__"
+    name = "__TEMPLATE_主页__"
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "__TEMPLATE_AUTHOR_NAME__"
+    name = "__TEMPLATE_子页1__"
     url = "/region-quest/"
     weight = 2
   [[menu.main]]
-    name = "__TEMPLATE_AUTHOR_NAME__"
+    name = "__TEMPLATE_子页2__"
     url = "/episode-quest/"
     weight = 3
-  [[menu.main]]
-    name = "__TEMPLATE_AUTHOR_NAME__"
-    url = "/boss-raiders/"
-    weight = 4
-  [[menu.main]]
-    name = "__TEMPLATE_AUTHOR_NAME__"
-    url = "/tower-of-chaos/"
-    weight = 5
-  [[menu.main]]
-    name = "__TEMPLATE_AUTHOR_NAME__"
-    url = "/other-quest/"
-    weight = 6
-  [[menu.main]]
-    name = "__TEMPLATE_AUTHOR_NAME__"
-    url = "/character-skill/"
-    weight = 7
-  [[menu.main]]
-    name = "__TEMPLATE_AUTHOR_NAME__"
-    url = "/equipment/"
-    weight = 8
   [[menu.main]]
     name = "__TEMPLATE_AUTHOR_NAME__"
     url = "/trickster-system/"
